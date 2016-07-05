@@ -1,0 +1,15 @@
+{
+  "name": "prestashop/blockconnectionapi",
+  "description": "AxelBruneaux module connectionAPI",
+  "homepage": "https://github.com/gazhrot/blockconnectionapi",
+  "authors": [
+    {
+      "name": "Axel BRUNEAUX",
+      "email": "axel.bruneaux@epitech.eu"
+    }
+  ],
+  "require" : {
+    "facebook/php-sdk-v4" : "~5.0",
+    "abraham/twitteroauth": "^0.6.4"
+  }
+}
